@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ccf9fd00-0267-4e8e-8523-5443b5ca5ccf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$/.." />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h52rgBsb5Q8Aqt8toyGmZV7sr5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/动态规划/509. 斐波那契数" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\63574\Desktop\GoProject\leetcode-pass\动态规划\322. 零钱兑换 " />
+      <recent name="C:\Users\63574\Desktop\GoProject\leetcode-pass\二分查找\704" />
+      <recent name="C:\Users\63574\Desktop\GoProject\leetcode-pass\阶乘\793" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\63574\Desktop\GoProject\leetcode-pass\OS" />
+      <recent name="C:\Users\63574\Desktop\GoProject\leetcode-pass\二叉树" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go (1)">
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="leetcode-pass" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/OS/LRU/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="leetcode-pass" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/阶乘/793/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build searchRange.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="leetcode-pass" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/二分查找/34/searchRange.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build search.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="leetcode-pass" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/二分查找/704/solution2/search.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build search.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="leetcode-pass" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/二分查找/704/solution1/search.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build main.go" />
+      <item itemvalue="Go Build.go build search.go" />
+      <item itemvalue="Go Build.go build search.go (1)" />
+      <item itemvalue="Go Build.go build searchRange.go" />
+      <item itemvalue="Go Build.go build main.go (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build searchRange.go" />
+        <item itemvalue="Go Build.go build search.go (1)" />
+        <item itemvalue="Go Build.go build search.go" />
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="438" y="188" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599303595528">
+      <screen x="0" y="0" width="1966" height="1066" />
+    </state>
+    <state x="438" y="188" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1966.1066@0.0.1966.1066" timestamp="1599303595528" />
+    <state x="753" y="333" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603297418444">
+      <screen x="0" y="0" width="1966" height="1066" />
+    </state>
+    <state x="753" y="333" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1966.1066@0.0.1966.1066" timestamp="1603297418444" />
+    <state x="645" y="309" width="675" height="649" key="EditFileWatcherDialog" timestamp="1603211221365">
+      <screen x="0" y="0" width="1966" height="1066" />
+    </state>
+    <state x="645" y="309" width="675" height="649" key="EditFileWatcherDialog/0.0.1966.1066@0.0.1966.1066" timestamp="1603211221365" />
+    <state x="764" y="287" key="FileChooserDialogImpl" timestamp="1599303608013">
+      <screen x="0" y="0" width="1966" height="1066" />
+    </state>
+    <state x="764" y="287" key="FileChooserDialogImpl/0.0.1966.1066@0.0.1966.1066" timestamp="1599303608013" />
+    <state width="1923" height="411" key="GridCell.Tab.0.bottom" timestamp="1599912642242">
+      <screen x="0" y="0" width="1966" height="1066" />
+    </state>
+    <state width="1923" height="411" key="GridCell.Tab.0.bottom/0.0.1966.1066@0.0.1966.1066" timestamp="1599912642242" />
+    <state width="1923" height="411" key="GridCell.Tab.0.center" timestamp="1599912642242">
+      <screen x="0" y="0" width="1966" height="1066" />
+    </state>
+    <state width="1923" height="411" key="GridCell.Tab.0.center/0.0.1966.1066@0.0.1966.1066" timestamp="1599912642242" />
+    <state width="1923" height="411" key="GridCell.Tab.0.left" timestamp="1599912642242">
+      <screen x="0" y="0" width="1966" height="1066" />
+    </state>
+    <state width="1923" height="411" key="GridCell.Tab.0.left/0.0.1966.1066@0.0.1966.1066" timestamp="1599912642242" />
+    <state width="1923" height="411" key="GridCell.Tab.0.right" timestamp="1599912642242">
+      <screen x="0" y="0" width="1966" height="1066" />
+    </state>
+    <state width="1923" height="411" key="GridCell.Tab.0.right/0.0.1966.1066@0.0.1966.1066" timestamp="1599912642242" />
+    <state width="1923" height="411" key="GridCell.Tab.1.bottom" timestamp="1599912642242">
+      <screen x="0" y="0" width="1966" height="1066" />
+    </state>
+    <state width="1923" height="411" key="GridCell.Tab.1.bottom/0.0.1966.1066@0.0.1966.1066" timestamp="1599912642242" />
+    <state width="1923" height="411" key="GridCell.Tab.1.center" timestamp="1599912642242">
+      <screen x="0" y="0" width="1966" height="1066" />
+    </state>
+    <state width="1923" height="411" key="GridCell.Tab.1.center/0.0.1966.1066@0.0.1966.1066" timestamp="1599912642242" />
+    <state width="1923" height="411" key="GridCell.Tab.1.left" timestamp="1599912642242">
+      <screen x="0" y="0" width="1966" height="1066" />
+    </state>
+    <state width="1923" height="411" key="GridCell.Tab.1.left/0.0.1966.1066@0.0.1966.1066" timestamp="1599912642242" />
+    <state width="1923" height="411" key="GridCell.Tab.1.right" timestamp="1599912642242">
+      <screen x="0" y="0" width="1966" height="1066" />
+    </state>
+    <state width="1923" height="411" key="GridCell.Tab.1.right/0.0.1966.1066@0.0.1966.1066" timestamp="1599912642242" />
+    <state x="485" y="177" key="SettingsEditor" timestamp="1603211222726">
+      <screen x="0" y="0" width="1966" height="1066" />
+    </state>
+    <state x="485" y="177" key="SettingsEditor/0.0.1966.1066@0.0.1966.1066" timestamp="1603211222726" />
+    <state x="758" y="256" key="com.goide.refactor.move.GoMoveDeclarationDialog" timestamp="1599903641183">
+      <screen x="0" y="0" width="1966" height="1066" />
+    </state>
+    <state x="758" y="256" key="com.goide.refactor.move.GoMoveDeclarationDialog/0.0.1966.1066@0.0.1966.1066" timestamp="1599903641183" />
+    <state x="532" y="262" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1599912053606">
+      <screen x="0" y="0" width="1966" height="1066" />
+    </state>
+    <state x="532" y="262" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1966.1066@0.0.1966.1066" timestamp="1599912053606" />
+    <state x="825" y="291" key="refactoring.ChangeSignatureDialog" timestamp="1599302818206">
+      <screen x="0" y="0" width="1966" height="1066" />
+    </state>
+    <state x="825" y="291" key="refactoring.ChangeSignatureDialog/0.0.1966.1066@0.0.1966.1066" timestamp="1599302818206" />
+    <state x="646" y="232" width="672" height="678" key="search.everywhere.popup" timestamp="1599377854203">
+      <screen x="0" y="0" width="1966" height="1066" />
+    </state>
+    <state x="646" y="232" width="672" height="678" key="search.everywhere.popup/0.0.1966.1066@0.0.1966.1066" timestamp="1599377854203" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/OS/LRU/main.go</url>
+          <line>22</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="DlvErrorBreakpoint" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
