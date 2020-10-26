@@ -1,13 +1,14 @@
 package main
 
 func main() {
-
+	coinChange([]int{2}, 3)
 }
 
 func coinChange(coins []int, amount int) int {
-	dp := make([][]int, len(coins)+1)
+	dp := make([]int, amount+1)
 	dp[0] = 0
-	for i := 0; i < len(dp); i++ {
+	for i := 1; i < len(dp); i++ {
+		dp[i] = amount + 1
 		for _, coin := range coins {
 			if i-coin < 0 {
 				continue
@@ -15,7 +16,10 @@ func coinChange(coins []int, amount int) int {
 			dp[i] = min(dp[i], dp[i-coin]+1)
 		}
 	}
-	return dp[amount] == amount+1
+	if dp[amount] == amount+1 {
+		return -1
+	}
+	return dp[amount]
 }
 
 func min(x, y int) int {
